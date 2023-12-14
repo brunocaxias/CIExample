@@ -1,0 +1,4 @@
+org\example\model\enums\Sexo.class
+org\example\model\enums\Etinia.class
+org\example\model\Deficiencia.class
+org\example\model\enums\CategoriaDeficiencia.class
