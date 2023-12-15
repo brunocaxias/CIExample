@@ -18,7 +18,7 @@
         
 
         <!-- <sonar.organization>paulossjunior-github</sonar.organization> -->
-        <sonar.projectKey>CIExampleGithubActions</sonar.projectKey>
+        <sonar.projectKey>brunocaxias_CIExample</sonar.projectKey>
         <sonar.projectName>CI Example</sonar.projectName>
         <sonar.tests>src/test/java</sonar.tests>
         <sonar.sources>src/main/java</sonar.sources>
